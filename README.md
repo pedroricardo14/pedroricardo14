@@ -41,4 +41,6 @@
  
 
 
+<a href=#><img src="contributions.svg"></a>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff&height=120&section=footer"/>
