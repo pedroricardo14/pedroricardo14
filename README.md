@@ -41,6 +41,7 @@
   <a href="https://www.instagram.com/pedr_ricardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238A3AB9?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:pedroricardo1032@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23DB4A39?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pedro-ricardo-07ab5022a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://web.telegram.org/k/#pedr_ricardo" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
  
 
