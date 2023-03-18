@@ -2,9 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8f00ff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+My+Name+is+Pedro+Ricardo;I'm+19+years+old;I'm+from+Brazil.;I'm+a+programming+and+technology+student;and+i'm+a+computer+technician+at+IFRN.;Be+welcome!+(⁠^⁠^⁠))](https://git.io/typing-svg)
 
+<div align="center" width="100%">
+<img align="center" alt="Coding" height="500px" width="900px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroricardo14&show_icons=true&count_private=true&hide_border=true&title_color=8f00ff&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Ricardo" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroricardo14&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+ </div>
+  
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=pedroricardo14&show_icons=true&count_private=true&hide_border=true&title_color=8f00ff&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Ricardo" /> 
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroricardo14&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ### Technologies for Front-end:
