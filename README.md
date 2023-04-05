@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8f00ff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+My+Name+is+Pedro+Ricardo;I'm+19+years+old;I'm+from+Brazil.;I'm+a+programming+and+technology+student;and+i'm+a+computer+technician+at+IFRN.;Be+welcome!+(⁠^⁠^⁠))](https://git.io/typing-svg)
 <div align="center" width="100%">
-<img align="right" alt="Coding" width="90%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="800px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 <div align="center" width="100%">
 <div align="center">  
