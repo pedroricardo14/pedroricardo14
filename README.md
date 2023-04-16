@@ -35,8 +35,14 @@
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-0D1117?style=for-the-badge&logo=visualStudioCode&labelColor=0D1117)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-0D1117?style=for-the-badge&logo=androidstudio&labelColor=0D1117)&nbsp;
 ![Xampp](https://img.shields.io/badge/-xampp-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
+![Gimp](https://img.shields.io/badge/-gimp-0D1117?style=for-the-badge&logo=gimp&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+
+
 
 <div align="center">
 <br><p align="centre"><b>Total Profile Visits</b></p>  
