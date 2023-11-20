@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff&height=180&section=header&text=Studying+FullStack+Development&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff&height=180&section=header&text=Software+Developer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8f00ff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+My+Name+is+Pedro+Ricardo;I'm+20+years+old;I'm+from+Brazil.;I'm+a+programming+and+technology+student;and+i'm+a+computer+technician+at+IFRN.;Be+welcome!+(⁠^⁠^⁠))](https://git.io/typing-svg)
 <div align="center" width="100%">
@@ -28,6 +28,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![Livewire](https://img.shields.io/badge/-livewire-0D1117?style=for-the-badge&logo=livewire&labelColor=0D1117)&nbsp;
 ![Laravel](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
 ### Other Technologies:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
