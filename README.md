@@ -22,13 +22,13 @@
 ### Technologies for Backend:
 
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
-### Learning about:
-
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![Livewire](https://img.shields.io/badge/-livewire-0D1117?style=for-the-badge&logo=livewire&labelColor=0D1117)&nbsp;
 ![Laravel](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
+
+### Learning about:
+
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 ### Other Technologies:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
@@ -45,6 +45,7 @@
 ![Gimp](https://img.shields.io/badge/-gimp-0D1117?style=for-the-badge&logo=gimp&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Huawei](https://img.shields.io/badge/-huawei-0D1117?style=for-the-badge&logo=huawei&labelColor=0D1117)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-jupyter-0D1117?style=for-the-badge&logo=jupyter&labelColor=0D1117)&nbsp;
 
 
